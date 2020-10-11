@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DyneHomepage/static/css/main.d5c72297.chunk.css",
+    "main.js": "/DyneHomepage/static/js/main.9275429c.chunk.js",
+    "main.js.map": "/DyneHomepage/static/js/main.9275429c.chunk.js.map",
+    "runtime-main.js": "/DyneHomepage/static/js/runtime-main.461bf103.js",
+    "runtime-main.js.map": "/DyneHomepage/static/js/runtime-main.461bf103.js.map",
+    "static/js/2.8422137d.chunk.js": "/DyneHomepage/static/js/2.8422137d.chunk.js",
+    "static/js/2.8422137d.chunk.js.map": "/DyneHomepage/static/js/2.8422137d.chunk.js.map",
+    "index.html": "/DyneHomepage/index.html",
+    "precache-manifest.7f9f5cc560b3fb02bcf5f0d96ea27bc6.js": "/DyneHomepage/precache-manifest.7f9f5cc560b3fb02bcf5f0d96ea27bc6.js",
+    "service-worker.js": "/DyneHomepage/service-worker.js",
+    "static/css/main.d5c72297.chunk.css.map": "/DyneHomepage/static/css/main.d5c72297.chunk.css.map",
+    "static/js/2.8422137d.chunk.js.LICENSE.txt": "/DyneHomepage/static/js/2.8422137d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.461bf103.js",
+    "static/js/2.8422137d.chunk.js",
+    "static/css/main.d5c72297.chunk.css",
+    "static/js/main.9275429c.chunk.js"
+  ]
+}
